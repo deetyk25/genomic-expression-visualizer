@@ -19,9 +19,9 @@ affect biological signal interpretation.
 jupyter notebook notebooks/(*notebook name goes here*)
 
 ## Dependencies
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
+pandas\
+numpy\
+matplotlib\
+seaborn\
+scikit-learn\
+jupyter\
