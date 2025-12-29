@@ -9,3 +9,19 @@ affect biological signal interpretation.
 - Filtered low-expression genes
 - Applied log normalization
 - Visualized expression distributions and gene-level variability
+
+## Stage 2 Progress
+- Implemented a PCA algorithm to highlight significant relationships explaining variance in the sampled genes.
+- Implemented k-means clustering to represent the low-dimensional relationships in a plot
+
+
+## How to Run
+jupyter notebook notebooks/(*notebook name goes here*)
+
+## Dependencies
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
