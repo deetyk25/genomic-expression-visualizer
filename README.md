@@ -24,4 +24,4 @@ numpy\
 matplotlib\
 seaborn\
 scikit-learn\
-jupyter\
+jupyter
